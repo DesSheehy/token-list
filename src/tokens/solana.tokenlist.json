@@ -65057,6 +65057,17 @@
         "twitter": "https://twitter.com/WavemStudios",
         "website": "https://medium.com/crypto-gold-rush"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "45BZJKCw4LKYRKJUZBwzsjiBEYWQ3qjsKpbYA66Q9LXP",
+      "symbol": "VVcoin",
+      "name": "VvCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DesSheehy/crypto/main/VvImage.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
