@@ -66174,6 +66174,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "45BZJKCw4LKYRKJUZBwzsjiBEYWQ3qjsKpbYA66Q9LXP",
+      "symbol": "VVtoken",
+      "name": "VV Token ",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/DesSheehy/crypto/main/VvImage.pngg",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
